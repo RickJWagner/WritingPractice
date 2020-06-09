@@ -1,3 +1,3 @@
 # WritingPractice
 
-This is a markdown readme!
+This is a markdown readme.
