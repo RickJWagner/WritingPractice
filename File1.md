@@ -16,7 +16,7 @@ __This will also be bold__
 
 _You **can** combine them_
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+1. First Item 
+2. Second Item 
+   * Item 2a
+   * Item 2b
